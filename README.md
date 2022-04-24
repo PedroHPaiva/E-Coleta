@@ -95,4 +95,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <p>Essa documentação é uma adaptação reduzida da documentação produzida pelo:</p>
 <a href="https://blog.rocketseat.com.br/author/thiago/">
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat"></a>
+ <sub><b>Thiago Marinho</b></sub></a> <a href="https://github.com/tgmarinho" title="Rocketseat"></a>
